@@ -6,9 +6,9 @@ use IEEE.numeric_std.all;
 entity ALU is
     generic(
 
-        nbit:           natural:=   32;
-        exponent_bits:  natural:=   8;
-        mantissa_bits:  natural:=   23
+        nbit:           Integer:=   32;
+        exponent_bits:  Integer:=   8;
+        mantissa_bits:  Integer:=   23
     );
     port(
         clk:        in  std_logic;
@@ -19,7 +19,7 @@ entity ALU is
         left_sel:   in  std_logic;
         rotate_sel: in  std_logic;
         sub_sel:    in  std_logic;
-        O:          out std_logic_vector(nbit-1 downto 0)
+        O, M, D:          out std_logic_vector(nbit-1 downto 0)
     );
 end entity ALU;
 
@@ -55,7 +55,7 @@ architecture structural of ALU is
             A:      in          std_logic_vector(nbit-1 downto 0);
             B:      in          std_logic_vector(nbit-1 downto 0);
             sub:    in          std_logic;
-            S:      out         std_logic_vector(nbit-1 downto 0)
+            S, M, D:      out         std_logic_vector(nbit-1 downto 0)
         );
     end component FP_adder_subtractor;
     
@@ -71,7 +71,7 @@ architecture structural of ALU is
             clk:    in          std_logic;
             A:      in          std_logic_vector(nbit-1 downto 0);
             B:      in          std_logic_vector(nbit-1 downto 0);
-            S:      out         std_logic_vector(nbit-1 downto 0)
+            S, M, D:      out         std_logic_vector(nbit-1 downto 0)
         );
     end component FP_multiplier;
     
@@ -87,28 +87,24 @@ architecture structural of ALU is
             clk:    in          std_logic;
             A:      in          std_logic_vector(nbit-1 downto 0);
             B:      in          std_logic_vector(nbit-1 downto 0);
-            S:      out         std_logic_vector(nbit-1 downto 0)
+            S, M, D:      out         std_logic_vector(nbit-1 downto 0)
         );
     end component FP_divider;
     
 begin
 
-    ADDER:  adder
-        port map();
+    --ADDER:  adder port map();
         
-    MULTIPLIER: multiplier
-        port map();
+    --MULTIPLIER: multiplier port map();
     
-    DIVIDER:    divider
-        port map();
+    --DIVIDER:    divider port map();
         
-    SH_ROT: shifter_rotator
-        port map();
+    --SH_ROT: shifter_rotator port map();
     
     
-    FP_sub_ctrl <=  '1' when sub_sel = '1'
-                    '0';
-    FP_ADDER: FP_adder_subtractor
+    --FP_sub_ctrl <=  '1' when sub_sel = '1'
+                    --'0';
+    adder1: FP_adder_subtractor
         generic map(
             nbit        =>  nbit,
             exponent    =>  exponent_bits,
@@ -122,7 +118,7 @@ begin
             S   =>  FP_sum_diff_out
         );
     
-    FP_MULTIPLIER:  FP_multiplier
+    multiplier1:  FP_multiplier
         generic map(
             nbit        =>  nbit,
             exponent    =>  exponent_bits,
@@ -135,7 +131,7 @@ begin
             M   =>  FP_mul_out
         );
     
-    FP_DIVIDER: FP_divider
+    divider1: FP_divider
         generic map(
             nbit        =>  nbit,
             exponent    =>  exponent_bits,
@@ -157,4 +153,4 @@ begin
             FP_div_out when output_sel = "110" else
             (others => '0');
 
-end architevture structural;
+end architecture structural;
