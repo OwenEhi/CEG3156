@@ -1,0 +1,1062 @@
+m255
+K3
+13
+cModel Technology
+dC:\ProgramData\App-V\42A7790A-E852-4FD0-A846-61FBCBD0279A\F6001447-9727-4074-B939-1C3D5BBC9B4C\Root\Quartus_II
+Ealu
+Z0 w1581289397
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 d\\uottawa.o.univ\acadhomes\o\oe\oehim101\W10\Desktop\CEG3156
+Z5 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ALU.vhd
+Z6 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ALU.vhd
+l0
+L6
+VzW5FQZ]gfRYMO7j`e3DTR3
+!s100 B5dkdEg2XcPfLQU8<_[b01
+Z7 OV;C;10.1d;51
+32
+!i10b 1
+Z8 !s108 1581289408.047000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ALU.vhd|
+Z10 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ALU.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Astructural
+R1
+R2
+R3
+Z13 DEx4 work 3 alu 0 22 zW5FQZ]gfRYMO7j`e3DTR3
+l94
+L26
+Z14 V:Z[eEdh7lo1A3a_l4KzhG0
+Z15 !s100 N`B5LG^FQ`<Q8d<H[1bMW2
+R7
+32
+!i10b 1
+R8
+R9
+R10
+R11
+R12
+Ecounter
+Z16 w1581280474
+R2
+R3
+R4
+Z17 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/counter.vhd
+Z18 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/counter.vhd
+l0
+L31
+Vjh<AJY=Z^k>AB=g6gY28P1
+R7
+32
+Z19 !s108 1581284704.481000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/counter.vhd|
+Z21 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/counter.vhd|
+R11
+R12
+!s100 SIGINWVeT?l>oLO?M0Dnh1
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 7 counter 0 22 jh<AJY=Z^k>AB=g6gY28P1
+l51
+L38
+VmGHdemj3Fi9C;^=U9ho4g1
+R7
+32
+R19
+R20
+R21
+R11
+R12
+!s100 I7fe92[nC3DX=5JaDzdz82
+!i10b 1
+Edatapath
+R16
+R2
+R3
+R4
+Z22 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/datapath.vhd
+Z23 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/datapath.vhd
+l0
+L7
+Vg9I[IcNe@OLUFDJ@mLPDb3
+R7
+32
+Z24 !s108 1581284704.854000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/datapath.vhd|
+Z26 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/datapath.vhd|
+R11
+R12
+!s100 cJG]UOiJ[lPkC>f3[[J2m0
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 8 datapath 0 22 g9I[IcNe@OLUFDJ@mLPDb3
+l157
+L18
+V_LfHc]H4nKQ2U69dGS7Q21
+R7
+32
+R24
+R25
+R26
+R11
+R12
+!s100 Vzj_Z=iORf]Yo_FEN^S@_2
+!i10b 1
+Edff
+R16
+R2
+R3
+R4
+Z27 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dFF.vhd
+Z28 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dFF.vhd
+l0
+L31
+VT[niTMefV0IlAe?gG1czU1
+R7
+32
+Z29 !s108 1581284705.236000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dFF.vhd|
+Z31 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dFF.vhd|
+R11
+R12
+!s100 QniSRT3YWMCS_Qb^^]8mO2
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 3 dff 0 22 T[niTMefV0IlAe?gG1czU1
+l50
+L38
+V^iP7_6C;0I^38IDznQ9E40
+R7
+32
+R29
+R30
+R31
+R11
+R12
+!s100 nJPneO^Jhm9[MPfeGJ^8O2
+!i10b 1
+Edff_2
+R16
+R2
+R3
+R4
+Z32 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dFF_2.vhd
+Z33 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dFF_2.vhd
+l0
+L31
+VmU6=]RL[DRb3B>U3nj:PT2
+R7
+32
+Z34 !s108 1581284705.608000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dFF_2.vhd|
+Z36 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dFF_2.vhd|
+R11
+R12
+!s100 @7UQdBb?9[KZkRP6ELJ8M3
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 5 dff_2 0 22 mU6=]RL[DRb3B>U3nj:PT2
+l41
+L38
+VmN<6RhX:dFgZ=<YJQ9FoK2
+R7
+32
+R34
+R35
+R36
+R11
+R12
+!s100 AYd<G@?02=8;c=`Rj=U5[1
+!i10b 1
+Edlatch
+R16
+R2
+R3
+R4
+Z37 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dLatch.vhd
+Z38 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dLatch.vhd
+l0
+L31
+VcNVQmHe8`iE7WTD14blIU2
+R7
+32
+Z39 !s108 1581284705.975000
+Z40 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dLatch.vhd|
+Z41 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dLatch.vhd|
+R11
+R12
+!s100 W86a35JML1ZC<8>GQlKK21
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 6 dlatch 0 22 cNVQmHe8`iE7WTD14blIU2
+l42
+L38
+V>b7SBlR_GEPf20=1dAFWb2
+R7
+32
+R39
+R40
+R41
+R11
+R12
+!s100 ?McZRLVjhViSeY:<fUaHc2
+!i10b 1
+Eenabledsrlatch
+R16
+R2
+R3
+R4
+Z42 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/enabledsrlatch.vhd
+Z43 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/enabledsrlatch.vhd
+l0
+L31
+VjRihek:l0RQIE4H]lagKO2
+R7
+32
+Z44 !s108 1581284706.348000
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/enabledsrlatch.vhd|
+Z46 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/enabledsrlatch.vhd|
+R11
+R12
+!s100 ZSUNY=X^3aed=WbEXMD8d1
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 14 enabledsrlatch 0 22 jRihek:l0RQIE4H]lagKO2
+l41
+L38
+VH7d1l38R;Vk>aKK7b[f]m1
+R7
+32
+R44
+R45
+R46
+R11
+R12
+!s100 6G3@RhR@Em]e1PFKl_TQL2
+!i10b 1
+Eenardff_2
+R16
+R2
+R3
+R4
+Z47 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/enardFF_2.vhd
+Z48 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/enardFF_2.vhd
+l0
+L31
+VW45mLHZkgINE^UQaXmP5[3
+R7
+32
+Z49 !s108 1581284706.713000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/enardFF_2.vhd|
+Z51 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/enardFF_2.vhd|
+R11
+R12
+!s100 LM:aJ[Ade62O^TDCQB2jH0
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 9 enardff_2 0 22 W45mLHZkgINE^UQaXmP5[3
+l43
+L40
+V3clzVS[W5TXh[=;E;]4B51
+R7
+32
+R49
+R50
+R51
+R11
+R12
+!s100 n`NKG5gX7V@?eV@4dAU663
+!i10b 1
+Eendff_2
+R16
+R2
+R3
+R4
+Z52 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/endFF_2.vhd
+Z53 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/endFF_2.vhd
+l0
+L31
+V:inJm@iN6k;n?8aDC<:5;2
+R7
+32
+Z54 !s108 1581284707.074000
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/endFF_2.vhd|
+Z56 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/endFF_2.vhd|
+R11
+R12
+!s100 =Dg^0dZWT2Ym03=OO_>4b3
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 7 endff_2 0 22 :inJm@iN6k;n?8aDC<:5;2
+l42
+L39
+V8SDfKzn]3l0e@ez06dNoz0
+R7
+32
+R54
+R55
+R56
+R11
+R12
+!s100 W4c;h?gmO]m58zQbfJi@22
+!i10b 1
+Eground
+R16
+Z57 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z58 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R2
+R3
+R4
+Z59 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/GND.vhdl
+Z60 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/GND.vhdl
+l0
+L10
+Vd;<O[K0ikW@P4Ho5iUPe[3
+R7
+32
+Z61 !s108 1581284707.440000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/GND.vhdl|
+Z63 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/GND.vhdl|
+R11
+R12
+!s100 dIgcS?^GNlah;mTf]Tz2Q0
+!i10b 1
+Adataflow
+R57
+R58
+R2
+R3
+DEx4 work 6 ground 0 22 d;<O[K0ikW@P4Ho5iUPe[3
+l18
+L16
+VkAi8gHzn^b<Id5oRc@i5@3
+R7
+32
+R61
+R62
+R63
+R11
+R12
+!s100 ]U_k4=Rh5kIUZ?TBD8TU83
+!i10b 1
+Eha
+R16
+R57
+R58
+R2
+R3
+R4
+Z64 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/HalfAdder.vhdl
+Z65 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/HalfAdder.vhdl
+l0
+L10
+Vj5[Lda_ijaiFDNjod>J0C1
+R7
+32
+Z66 !s108 1581284707.819000
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/HalfAdder.vhdl|
+Z68 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/HalfAdder.vhdl|
+R11
+R12
+!s100 jSk^fk5Dn`HmaS4S40DAW0
+!i10b 1
+Adataflow
+R57
+R58
+R2
+R3
+DEx4 work 2 ha 0 22 j5[Lda_ijaiFDNjod>J0C1
+l20
+L18
+V7GnR2iUUe3TG^6VW5>g1X3
+R7
+32
+R66
+R67
+R68
+R11
+R12
+!s100 LG?lBS2Q0LA_IaC3l58B=0
+!i10b 1
+Ehs
+R16
+R57
+R58
+R2
+R3
+R4
+Z69 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/HalfSubstractor.vhdl
+Z70 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/HalfSubstractor.vhdl
+l0
+L10
+VZGF^;^WDz9:@V0?4T9jT80
+R7
+32
+Z71 !s108 1581284708.189000
+Z72 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/HalfSubstractor.vhdl|
+Z73 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/HalfSubstractor.vhdl|
+R11
+R12
+!s100 OZm6XZO8EHKYjmLW8mG;80
+!i10b 1
+Adataflow
+R57
+R58
+R2
+R3
+DEx4 work 2 hs 0 22 ZGF^;^WDz9:@V0?4T9jT80
+l20
+L18
+VK0zHdT7TKcOKFSPBR<mMc3
+R7
+32
+R71
+R72
+R73
+R11
+R12
+!s100 <W0:SWR7C]18@e2_HdmlF1
+!i10b 1
+Eieee754_fp_multiplier
+R16
+R1
+R2
+R3
+R4
+Z74 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ieee754_fp_multiplier.vhd
+Z75 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ieee754_fp_multiplier.vhd
+l0
+L13
+Vjn>8PRZdPhQ=_zmYU]fKH1
+R7
+32
+Z76 !s108 1581284714.423000
+Z77 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ieee754_fp_multiplier.vhd|
+Z78 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ieee754_fp_multiplier.vhd|
+R11
+R12
+!s100 6FSkRQ8I5VL>a_YCUo]2Q1
+!i10b 1
+Astructural
+R1
+R2
+R3
+DEx4 work 21 ieee754_fp_multiplier 0 22 jn>8PRZdPhQ=_zmYU]fKH1
+l26
+L21
+VBWOc9`WU=n]`mbPGCB9VV3
+R7
+32
+R76
+R77
+R78
+R11
+R12
+!s100 LSmkd7PaKEIVD<TmjWB?M0
+!i10b 1
+Ejkff
+R16
+R2
+R3
+R4
+Z79 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/jkFF.vhd
+Z80 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/jkFF.vhd
+l0
+L31
+V4MeD[GVR>fG2ghUXY[mXj2
+R7
+32
+Z81 !s108 1581284708.556000
+Z82 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/jkFF.vhd|
+Z83 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/jkFF.vhd|
+R11
+R12
+!s100 Rj@j[b>?hlG6;<j4<I]Nn0
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 4 jkff 0 22 4MeD[GVR>fG2ghUXY[mXj2
+l41
+L38
+VMiENP4ETU8mhG7L@ChdRA1
+R7
+32
+R81
+R82
+R83
+R11
+R12
+!s100 bK69;n_OCZiTSz^S^6Vk=3
+!i10b 1
+Ejkff_2
+R16
+R2
+R3
+R4
+Z84 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/jkFF_2.vhd
+Z85 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/jkFF_2.vhd
+l0
+L31
+VHn]OSaX^Fec8:YzTS2zzc3
+R7
+32
+Z86 !s108 1581284708.964000
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/jkFF_2.vhd|
+Z88 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/jkFF_2.vhd|
+R11
+R12
+!s100 oIY3CO4nWN?9_U??_Ye:j2
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 6 jkff_2 0 22 Hn]OSaX^Fec8:YzTS2zzc3
+l49
+L38
+VSBEi9BYnH``06<ePYEdo10
+R7
+32
+R86
+R87
+R88
+R11
+R12
+!s100 liER;^nzTSJ3RfiAHIkXf0
+!i10b 1
+Emultiplier
+R16
+R57
+R58
+R2
+R3
+R4
+Z89 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/Multiplier.vhdl
+Z90 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/Multiplier.vhdl
+l0
+L10
+Vmmkbh@>RWFVOBJDgl[UeO3
+R7
+32
+Z91 !s108 1581284709.330000
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/Multiplier.vhdl|
+Z93 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/Multiplier.vhdl|
+R11
+R12
+!s100 HU=4V6EnomzGKHVSM@7IC3
+!i10b 1
+Adataflow
+R57
+R58
+R2
+R3
+DEx4 work 10 multiplier 0 22 mmkbh@>RWFVOBJDgl[UeO3
+l20
+L18
+VKH1W8gGV0_HcO<WOLaLLo3
+R7
+32
+R91
+R92
+R93
+R11
+R12
+!s100 bIA`6XoC^`kbcng]2NLGU1
+!i10b 1
+Emux
+R16
+R57
+R58
+R2
+R3
+R4
+Z94 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/ALU_1bit.vhdl
+Z95 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/ALU_1bit.vhdl
+l0
+L94
+VhVA0RST1QW?X0F[@SzXg?2
+R7
+32
+Z96 !s108 1581284703.794000
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/ALU_1bit.vhdl|
+Z98 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/ALU_1bit.vhdl|
+R11
+R12
+!s100 mLoB=mf0Ucg=Z6XIQ6^ki2
+!i10b 1
+Adataflow
+R57
+R58
+R2
+R3
+DEx4 work 3 mux 0 22 hVA0RST1QW?X0F[@SzXg?2
+l106
+L104
+Vh_@lLomC1V[MOE6c879nN1
+R7
+32
+R96
+R97
+R98
+R11
+R12
+!s100 g:JJ=`?IPO?]ITZXG9ST91
+!i10b 1
+Eonebitadder
+R16
+R2
+R3
+R4
+Z99 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/onebitadder.vhd
+Z100 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/onebitadder.vhd
+l0
+L31
+V<WPaMLJ_Q??nLET?Qn5W02
+R7
+32
+Z101 !s108 1581284709.704000
+Z102 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/onebitadder.vhd|
+Z103 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/onebitadder.vhd|
+R11
+R12
+!s100 3=]2afhWa=ab9Iz_HFcb00
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 11 onebitadder 0 22 <WPaMLJ_Q??nLET?Qn5W02
+l41
+L38
+VMbkMHFWh@k3b7o@o6>i5k2
+R7
+32
+R101
+R102
+R103
+R11
+R12
+!s100 RRbEGVI`EKl=XLGnQ:<dQ0
+!i10b 1
+Eonebitcomparator
+R16
+R2
+R3
+R4
+Z104 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/onebitcomparator.vhd
+Z105 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/onebitcomparator.vhd
+l0
+L31
+Va114[DTKdX[dS9GV3?VV>2
+R7
+32
+Z106 !s108 1581284710.067000
+Z107 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/onebitcomparator.vhd|
+Z108 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/onebitcomparator.vhd|
+R11
+R12
+!s100 <jX6<_c^nQ8XW_1O_gY[<1
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 16 onebitcomparator 0 22 a114[DTKdX[dS9GV3?VV>2
+l42
+L38
+VA0g5UdUYmzdXnCE:h69Va3
+R7
+32
+R106
+R107
+R108
+R11
+R12
+!s100 8fVAI]h6XZcSDo?:0YWH41
+!i10b 1
+Esbarrbarlatch
+R16
+R2
+R3
+R4
+Z109 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/sbarrbarlatch.vhd
+Z110 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/sbarrbarlatch.vhd
+l0
+L31
+Vn=^OXC^VC6m`nMJB<GV:]3
+R7
+32
+Z111 !s108 1581284710.477000
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/sbarrbarlatch.vhd|
+Z113 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/sbarrbarlatch.vhd|
+R11
+R12
+!s100 PlnEf?BZ?NFd503EhINnc3
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 13 sbarrbarlatch 0 22 n=^OXC^VC6m`nMJB<GV:]3
+l39
+L37
+VgoU;aVb0lQo393UDGgk>m3
+R7
+32
+R111
+R112
+R113
+R11
+R12
+!s100 B]F7m03Q5Ufz;CkWLDzAi1
+!i10b 1
+Eshiftreg4bits_struct
+Z114 w1581284604
+R2
+R3
+R4
+Z115 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/4bitShiftReg.vhdl
+Z116 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/4bitShiftReg.vhdl
+l0
+L3
+VNjS1G:^Q?LF0mRdl7P7A02
+R7
+32
+Z117 !s108 1581284703.022000
+Z118 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/4bitShiftReg.vhdl|
+Z119 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/4bitShiftReg.vhdl|
+R11
+R12
+!s100 5L=a31_OGZ;0?g:kB5?Fn2
+!i10b 1
+Astructural
+R2
+R3
+DEx4 work 20 shiftreg4bits_struct 0 22 NjS1G:^Q?LF0mRdl7P7A02
+l15
+L8
+V90VDSJ`WGj]nA@3DVN;Bl0
+R7
+32
+R117
+R118
+R119
+R11
+R12
+!s100 bE^8Ic9`;Qh`Z;JAW?A212
+!i10b 1
+Esmallalu
+Z120 w1581283293
+R2
+R3
+R4
+Z121 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Components Needed/smallALU.vhd
+Z122 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Components Needed/smallALU.vhd
+l0
+L4
+V5YPBPaO1Wf2nG<bcgnZUN1
+R7
+32
+Z123 !s108 1581284702.239000
+Z124 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Components Needed/smallALU.vhd|
+Z125 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Components Needed/smallALU.vhd|
+R11
+R12
+!s100 O6;EgnUg3mVAFX0iz4TJP1
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 8 smallalu 0 22 5YPBPaO1Wf2nG<bcgnZUN1
+l69
+L12
+V`W;A9k5I@3GHg?RLUh3@o2
+R7
+32
+R123
+R124
+R125
+R11
+R12
+!s100 3QcA<a^[PNOK8A88@>YX:1
+!i10b 1
+Esrlatch
+R16
+R2
+R3
+R4
+Z126 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/SRLatchF.vhdl
+Z127 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/SRLatchF.vhdl
+l0
+L4
+VUDZGObh2YI3oP6JUHXc>S3
+R7
+32
+Z128 !s108 1581284711.580000
+Z129 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/SRLatchF.vhdl|
+Z130 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/SRLatchF.vhdl|
+R11
+R12
+!s100 Q_b09YcN:k6>4<i3dQXjH3
+!i10b 1
+Asrlatch_arch
+R2
+R3
+DEx4 work 7 srlatch 0 22 UDZGObh2YI3oP6JUHXc>S3
+l17
+L9
+V>khQDWO^AE[3:^I4@;F`=1
+R7
+32
+R128
+R129
+R130
+R11
+R12
+!s100 bMS6]CW<P]6?f1[Kj;GY<0
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 7 srlatch 0 22 GJ_4f`ZPSJ>J2Z_ia:Qfh2
+l39
+L37
+VMgQCN65]NQa:S?aHJXWi;3
+R7
+32
+R11
+R12
+F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/srlatch.vhd
+8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/srlatch.vhd
+!s100 LJ=6Zm:b7:BI?[nel>M9G1
+!s108 1581284711.216000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/srlatch.vhd|
+!s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/srlatch.vhd|
+!i10b 1
+Etff
+R16
+R2
+R3
+R4
+Z131 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/tFF.vhd
+Z132 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/tFF.vhd
+l0
+L31
+V?FM6Kn;@<O0oU`HKle3?<3
+R7
+32
+Z133 !s108 1581284711.960000
+Z134 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/tFF.vhd|
+Z135 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/tFF.vhd|
+R11
+R12
+!s100 W=CUdP5BfGZfNJiB:<ojI0
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 3 tff 0 22 ?FM6Kn;@<O0oU`HKle3?<3
+l41
+L38
+VzAH3AIbbHnnjiacP6ildN2
+R7
+32
+R133
+R134
+R135
+R11
+R12
+!s100 :MUU`dEUA_Tn`Z9UXT`;Y3
+!i10b 1
+Etff_2
+R16
+R2
+R3
+R4
+Z136 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/tFF_2.vhd
+Z137 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/tFF_2.vhd
+l0
+L31
+VQJAz5n>5DngJl;[7;oA`V0
+R7
+32
+Z138 !s108 1581284712.328000
+Z139 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/tFF_2.vhd|
+Z140 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/tFF_2.vhd|
+R11
+R12
+!s100 =dkdAzXY>b_d_K6g97ROE3
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 5 tff_2 0 22 QJAz5n>5DngJl;[7;oA`V0
+l48
+L38
+Via^CTVbn[h=enP8N[NOGl3
+R7
+32
+R138
+R139
+R140
+R11
+R12
+!s100 CcjD<>kCLG;5K466`M7SY0
+!i10b 1
+Ethreebitadder
+R16
+R2
+R3
+R4
+Z141 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitadder.vhd
+Z142 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitadder.vhd
+l0
+L31
+VShI=ALZlXdJ`YkFIYDADk0
+R7
+32
+Z143 !s108 1581284712.702000
+Z144 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitadder.vhd|
+Z145 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitadder.vhd|
+R11
+R12
+!s100 kzYkFJ>kTMUWi@ncaMB3:0
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 13 threebitadder 0 22 ShI=ALZlXdJ`YkFIYDADk0
+l49
+L38
+VO8IEQKloF8[U2@OWHG>:F1
+R7
+32
+R143
+R144
+R145
+R11
+R12
+!s100 KY<WGW;Z;8HUdg67fVR>H2
+!i10b 1
+Ethreebitcomparator
+R16
+R2
+R3
+R4
+Z146 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitcomparator.vhd
+Z147 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitcomparator.vhd
+l0
+L31
+VS^93<`dGjF5I:Q_YYlKNG0
+R7
+32
+Z148 !s108 1581284713.070000
+Z149 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitcomparator.vhd|
+Z150 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitcomparator.vhd|
+R11
+R12
+!s100 <=IJVaE;=Dehibl;f>VCn1
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 18 threebitcomparator 0 22 S^93<`dGjF5I:Q_YYlKNG0
+l48
+L37
+VF2^nP@Kkf^]GoXhlYcHj`3
+R7
+32
+R148
+R149
+R150
+R11
+R12
+!s100 UMW^nd3FmW>i9ASK4f47X1
+!i10b 1
+Ethreebitregister
+R16
+R2
+R3
+R4
+Z151 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Components Needed/threebitregister.vhd
+Z152 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Components Needed/threebitregister.vhd
+l0
+L31
+VObVYdANS^gnHg:Pe0RWJM1
+R7
+32
+Z153 !s108 1581284702.645000
+Z154 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Components Needed/threebitregister.vhd|
+Z155 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Components Needed/threebitregister.vhd|
+R11
+R12
+!s100 l0bX>X=dLV44Da<[Cl79`3
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 16 threebitregister 0 22 ObVYdANS^gnHg:Pe0RWJM1
+l51
+L39
+VGhznm2]=PGj8b=0iU:NhJ2
+R7
+32
+R153
+R154
+R155
+R11
+R12
+!s100 @WRQLHjd4WRCNN4WPCDF[0
+!i10b 1
+Ethreebitshiftregister
+R16
+R2
+R3
+R4
+Z156 8//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitshiftregister.vhd
+Z157 F//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitshiftregister.vhd
+l0
+L31
+V1JSU58JnlJ<oPKEoghHSJ2
+R7
+32
+Z158 !s108 1581284713.462000
+Z159 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitshiftregister.vhd|
+Z160 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitshiftregister.vhd|
+R11
+R12
+!s100 QG?a8@0V_lk=YS?bdQ=]=3
+!i10b 1
+Artl
+R2
+R3
+DEx4 work 21 threebitshiftregister 0 22 1JSU58JnlJ<oPKEoghHSJ2
+l51
+L39
+VI9clICZ4Ycj6UKoJ^b3<e3
+R7
+32
+R158
+R159
+R160
+R11
+R12
+!s100 Y?<_z@G7XCX3QQ6^YUL_f1
+!i10b 1

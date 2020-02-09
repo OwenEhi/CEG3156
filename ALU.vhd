@@ -6,15 +6,15 @@ use IEEE.numeric_std.all;
 entity ALU is
     generic(
 
-        nbit:           Integer:=   32;
-        exponent_bits:  Integer:=   8;
-        mantissa_bits:  Integer:=   23
+        nbit:           Integer:=   16;
+        exponent_bits:  Integer:=   7;
+        mantissa_bits:  Integer:=   8
     );
     port(
         clk:        in  std_logic;
         A:          in  std_logic_vector(nbit-1 downto 0);
         B:          in  std_logic_vector(nbit-1 downto 0);
-        output_sel: in  std_logic_vector(3 downto 0);
+        output_sel: in  std_logic_vector(2 downto 0);
         logic_sel:  in  std_logic;
         left_sel:   in  std_logic;
         rotate_sel: in  std_logic;
@@ -45,10 +45,10 @@ architecture structural of ALU is
     signal  FP_sum_diff_out:    std_logic_vector(nbit-1 downto 0);
     component FP_adder_subtractor is
         generic(
-            -- IEEE-754 Single Precision floating point standard.
-            nbit:       natural:=   32;
-            exponent:   natural:=   8;
-            mantissa:   natural:=   23
+            -- Lab 1 floating point standard.
+            nbit:       natural:=   16;
+            exponent:   natural:=   7;
+            mantissa:   natural:=   8
         );
         port(
             clk:    in          std_logic;
@@ -62,10 +62,10 @@ architecture structural of ALU is
     signal  FP_mul_out:         std_logic_vector(nbit-1 downto 0);
     component FP_multiplier is
         generic(
-            -- IEEE-754 Single Precision floating point standard.
-            nbit:       natural:=   32;
-            exponent:   natural:=   8;
-            mantissa:   natural:=   23
+            -- Lab 1 floating point standard.
+            nbit:       natural:=   16;
+            exponent:   natural:=   7;
+            mantissa:   natural:=   8
         );
         port(
             clk:    in          std_logic;
@@ -78,10 +78,10 @@ architecture structural of ALU is
     signal  FP_div_out:         std_logic_vector(nbit-1 downto 0);
     component FP_divider is
         generic(
-            -- IEEE-754 Single Precision floating point standard.
-            nbit:       natural:=   32;
-            exponent:   natural:=   8;
-            mantissa:   natural:=   23
+            -- Lab 1 floating point standard.
+            nbit:       natural:=   16;
+            exponent:   natural:=   7;
+            mantissa:   natural:=   8
         );
         port(
             clk:    in          std_logic;

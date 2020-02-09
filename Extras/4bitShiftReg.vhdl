@@ -1,3 +1,5 @@
+library ieee;
+use ieee.std_logic_1164.all;
 entity ShiftReg4bits_Struct is
 	Port ( Din,clk,reset : in STD_LOGIC;
  	       Q : out STD_LOGIC_VECTOR (3 downto 0));

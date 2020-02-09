@@ -1,0 +1,285 @@
+//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitcomparator.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitcomparator.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity threeBitComparator
+-- Compiling architecture rtl of threeBitComparator
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitadder.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitadder.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity threeBitAdder
+-- Compiling architecture rtl of threeBitAdder
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/datapath.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/datapath.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Datapath
+-- Compiling architecture RTL of Datapath
+
+} {} {}} {//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Components Needed/threebitregister.vhd} {1 {vcom -work work -2002 -explicit {//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Components Needed/threebitregister.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity threeBitRegister
+-- Compiling architecture rtl of threeBitRegister
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/tFF_2.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/tFF_2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tFF_2
+-- Compiling architecture rtl of tFF_2
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/onebitcomparator.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/onebitcomparator.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity oneBitComparator
+-- Compiling architecture rtl of oneBitComparator
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/onebitadder.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/onebitadder.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity oneBitAdder
+-- Compiling architecture rtl of oneBitAdder
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dFF_2.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dFF_2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dFF_2
+-- Compiling architecture rtl of dFF_2
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitshiftregister.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/threebitshiftregister.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity threeBitShiftRegister
+-- Compiling architecture rtl of threeBitShiftRegister
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/jkFF_2.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/jkFF_2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity jkFF_2
+-- Compiling architecture rtl of jkFF_2
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/SRLacthF.vhdl {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/SRLacthF.vhdl
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity srlatch
+-- Compiling architecture srlatch_arch of srlatch
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/sbarrbarlatch.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/sbarrbarlatch.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity sBarrBarLatch
+-- Compiling architecture rtl of sBarrBarLatch
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/endFF_2.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/endFF_2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity endFF_2
+-- Compiling architecture rtl of endFF_2
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/enabledsrlatch.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/enabledsrlatch.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity enabledSRLatch
+-- Compiling architecture rtl of enabledSRLatch
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ieee754_fp_multiplier.vhd {2 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ieee754_fp_multiplier.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ieee754_fp_multiplier
+-- Compiling architecture Structural of ieee754_fp_multiplier
+** Warning: //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ieee754_fp_multiplier.vhd(48): (vcom-1083) Implicit array operator "=" always returns FALSE (left length 9 is not equal to right length 1).
+
+** Warning: //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ieee754_fp_multiplier.vhd(48): (vcom-1083) Implicit array operator "=" always returns FALSE (left length 9 is not equal to right length 24).
+
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/GND.vhdl {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/GND.vhdl
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ground
+-- Compiling architecture dataflow of ground
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/4to1MUX.vhdl {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/4to1MUX.vhdl
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MUX
+-- Compiling architecture dataflow of MUX
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/HalfAdder.vhdl {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/HalfAdder.vhdl
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity HA
+-- Compiling architecture dataflow of HA
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/enardFF_2.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/enardFF_2.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity enARdFF_2
+-- Compiling architecture rtl of enARdFF_2
+
+} {} {}} {//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Components Needed/smallALU.vhd} {1 {vcom -work work -2002 -explicit {//uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Components Needed/smallALU.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity smallAlu
+-- Compiling architecture rtl of smallAlu
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/tFF.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/tFF.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity tFF
+-- Compiling architecture rtl of tFF
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/counter.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/counter.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity counter
+-- Compiling architecture rtl of counter
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dFF.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dFF.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dFF
+-- Compiling architecture rtl of dFF
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dLatch.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/dLatch.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity dLatch
+-- Compiling architecture rtl of dLatch
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/srlatch.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/srlatch.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity srLatch
+-- Compiling architecture rtl of srLatch
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/jkFF.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/jkFF.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity jkFF
+-- Compiling architecture rtl of jkFF
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/SRLatchF.vhdl {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/SRLatchF.vhdl
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity srlatch
+-- Compiling architecture srlatch_arch of srlatch
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/Multiplier.vhdl {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/Multiplier.vhdl
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity multiplier
+-- Compiling architecture dataflow of multiplier
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/HalfSubstractor.vhdl {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/HalfSubstractor.vhdl
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity HS
+-- Compiling architecture dataflow of HS
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/4bitShiftReg.vhdl {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/4bitShiftReg.vhdl
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftReg4bits_Struct
+-- Compiling architecture Structural of ShiftReg4bits_Struct
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ALU.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/ALU.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture structural of ALU
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/ALU_1bit.vhdl {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/W10/Desktop/CEG3156/Extras/ALU_1bit.vhdl
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity HA
+-- Compiling architecture dataflow of HA
+-- Compiling entity HS
+-- Compiling architecture dataflow of HS
+-- Compiling entity multiplier
+-- Compiling architecture dataflow of multiplier
+-- Compiling entity MUX
+-- Compiling architecture dataflow of MUX
+-- Compiling entity ground
+-- Compiling architecture dataflow of ground
+-- Compiling entity ALU
+-- Compiling architecture Structural of ALU
+
+} {} {}}
