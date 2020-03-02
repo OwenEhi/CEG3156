@@ -1,0 +1,106 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+
+entity RegFile is
+	port (clock, reset, RegWrite : in std_logic;
+	ReadReg1, ReadReg2, WriteReg : in std_logic_vector(4 downto 0);
+	WriteData : in std_logic_vector(7 downto 0);
+	ReadData1, ReadData2 : out std_logic_vector(7 downto 0) := (others => '0')
+	);
+end RegFile;
+
+architecture RegArch of RegFile is
+
+component reg8bit is
+	port(CLK, RST, EN: in std_logic;
+			D: in std_logic_vector(7 downto 0);
+			Q: out std_logic_vector(7 downto 0)
+	);
+end component;
+
+signal regEn, regOut0, regOut1, regOut2, regOut3, regOut4,
+		regOut5, regOut6, regOut7 : std_logic_vector(7 downto 0) := (others => '0');
+
+begin
+
+	process(clock, reset, RegWrite, ReadReg1, ReadReg2, WriteReg, WriteData,
+regOut0, regOut1, regOut2, regOut3, regOut4, regOut5, regOut6, regOut7)
+	begin
+		case RegWrite is
+			when '1' =>
+				case WriteReg is
+					when "00000" => 
+						regEn <= "00000001";
+					when "00001" =>
+						regEn <= "00000010";	
+					when "00010" => 
+						regEn <= "00000100";
+					when "00011" => 
+						regEn <= "00001000";
+					when "00100" => 
+						regEn <= "00010000";
+					when "00101" => 
+						regEn <= "00100000";
+					when "00110" => 
+						regEn <= "01000000";
+					when "00111" => 
+						regEn <= "10000000";
+					when others =>
+						regEn <= (others => '0');
+				end case;
+			when others =>
+				regEn <= (others => '0');
+		end case;
+	
+		case ReadReg1 is
+			when "00000" => 
+				ReadData1 <= regOut0;
+			when "00001" =>
+				ReadData1 <= regOut1;
+			when "00010" => 
+				ReadData1 <= regOut2;
+			when "00011" => 
+				ReadData1 <= regOut3;
+			when "00100" => 
+				ReadData1 <= regOut4;
+			when "00101" => 
+				ReadData1 <= regOut5;
+			when "00110" => 
+				ReadData1 <= regOut6;
+			when "00111" => 
+				ReadData1 <= regOut7;
+			when others =>
+		end case;
+	
+		case ReadReg2 is
+			when "00000" => 
+				ReadData1 <= regOut0;
+			when "00001" =>
+				ReadData2 <= regOut1;
+			when "00010" => 
+				ReadData2 <= regOut2;
+			when "00011" => 
+				ReadData2 <= regOut3;
+			when "00100" => 
+				ReadData2 <= regOut4;
+			when "00101" => 
+				ReadData2 <= regOut5;
+			when "00110" => 
+				ReadData2 <= regOut6;
+			when "00111" => 
+				ReadData2 <= regOut7;
+			when others =>
+		end case;
+		
+	end process;
+	
+	R0: reg8bit port map (clock, reset, regEn(0), WriteData, regOut0);
+	R1: reg8bit port map (clock, reset, regEn(1), WriteData, regOut1);
+	R2: reg8bit port map (clock, reset, regEn(2), WriteData, regOut2);
+	R3: reg8bit port map (clock, reset, regEn(3), WriteData, regOut3);
+	R4: reg8bit port map (clock, reset, regEn(4), WriteData, regOut4);
+	R5: reg8bit port map (clock, reset, regEn(5), WriteData, regOut5);
+	R6: reg8bit port map (clock, reset, regEn(6), WriteData, regOut6);
+	R7: reg8bit port map (clock, reset, regEn(7), WriteData, regOut7);
+end RegArch;
