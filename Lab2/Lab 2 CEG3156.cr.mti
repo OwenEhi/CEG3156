@@ -1,0 +1,43 @@
+//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/ControlUnit.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/ControlUnit.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity controllerUnit
+-- Compiling architecture setSignals of controllerUnit
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/ALU.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/ALU.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU
+-- Compiling architecture aluArch of ALU
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/Top.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/Top.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity singleCycleProcessor
+-- Compiling architecture processorArch of singleCycleProcessor
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/InstructionMemory.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/InstructionMemory.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package LPM_COMPONENTS
+-- Compiling entity InstructionMem
+-- Compiling architecture InstructionArch of InstructionMem
+
+} {} {}} //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/DataMemory.vhd {1 {vcom -work work -2002 -explicit //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/DataMemory.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package altera_mf_components
+-- Compiling entity DataMem2
+-- Compiling architecture dataArch of DataMem2
+
+} {} {}}

@@ -1,0 +1,184 @@
+m255
+K3
+13
+cModel Technology
+dC:\ProgramData\App-V\42A7790A-E852-4FD0-A846-61FBCBD0279A\F6001447-9727-4074-B939-1C3D5BBC9B4C\Root\Quartus_II
+Ealu
+Z0 w1583454066
+Z1 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 d\\uottawa.o.univ\acadhomes\o\oe\oehim101\oehim101\Desktop\CEG31563\Lab2
+Z4 8//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/ALU.vhd
+Z5 F//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/ALU.vhd
+l0
+L4
+VeVWR4T7@O6^X6K@O^P3j80
+Z6 OV;C;10.1d;51
+32
+Z7 !s108 1583529947.864000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/ALU.vhd|
+Z9 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/ALU.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 mjIb?9:zMaoDm7B9S>Y3J2
+!i10b 1
+Aaluarch
+R1
+R2
+DEx4 work 3 alu 0 22 eVWR4T7@O6^X6K@O^P3j80
+l25
+L12
+Vk0:X9?926LL5fSB;mPo]e1
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 R1RLGTkR@aGG8b8z<;li=0
+!i10b 1
+Econtrollerunit
+Z12 w1583454066
+R1
+R2
+R3
+Z13 8//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/ControlUnit.vhd
+Z14 F//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/ControlUnit.vhd
+l0
+L4
+V;jjHboEWil6>RYb_<PST41
+R6
+32
+Z15 !s108 1583529948.333000
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/ControlUnit.vhd|
+Z17 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/ControlUnit.vhd|
+R10
+R11
+!s100 2LkizX<744ZKMER8AVAQz2
+!i10b 1
+Asetsignals
+R1
+R2
+DEx4 work 14 controllerunit 0 22 ;jjHboEWil6>RYb_<PST41
+l14
+L12
+VFXmRAh31N@RPI3;oEm@Ve0
+R6
+32
+R15
+R16
+R17
+R10
+R11
+!s100 :Vk69V2Uh@UFO1A?;c`Ro0
+!i10b 1
+Edatamem2
+R12
+Z18 DPx9 altera_mf 20 altera_mf_components 0 22 dN>@>Mze:JEj3f_7zNO2S2
+R1
+R2
+R3
+Z19 8//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/DataMemory.vhd
+Z20 F//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/DataMemory.vhd
+l0
+L7
+VjiBYAL8G7jYKKJVZViBPE2
+R6
+32
+Z21 !s108 1583529948.816000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/DataMemory.vhd|
+Z23 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/DataMemory.vhd|
+R10
+R11
+!s100 jTjEYX=3ZS;XZcTg?TfK90
+!i10b 1
+Adataarch
+R18
+R1
+R2
+DEx4 work 8 datamem2 0 22 jiBYAL8G7jYKKJVZViBPE2
+l18
+L14
+V7e:j@UBSV5W[cBY<]j>:41
+R6
+32
+R21
+R22
+R23
+R10
+R11
+!s100 C<65aM642K9>58ElA<o0B3
+!i10b 1
+Einstructionmem
+R12
+Z24 DPx3 lpm 14 lpm_components 0 22 aHRA3clF>2DcWDhgFTAbM3
+R1
+R2
+R3
+Z25 8//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/InstructionMemory.vhd
+Z26 F//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/InstructionMemory.vhd
+l0
+L7
+VXYCH]lPnN:k:=^VjUM5T>0
+R6
+32
+Z27 !s108 1583529949.444000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/InstructionMemory.vhd|
+Z29 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/InstructionMemory.vhd|
+R10
+R11
+!s100 FmgLnXa2GU8HE`ld7MVMU0
+!i10b 1
+Ainstructionarch
+R24
+R1
+R2
+DEx4 work 14 instructionmem 0 22 XYCH]lPnN:k:=^VjUM5T>0
+l35
+L14
+VG9NM_]6PJ0bVzUWJdKhUf2
+!s100 2XRA`5VB_><H?KhbI_:AW0
+R6
+32
+R27
+R28
+R29
+R10
+R11
+!i10b 1
+Esinglecycleprocessor
+R12
+R1
+R2
+R3
+Z30 8//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/Top.vhd
+Z31 F//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/Top.vhd
+l0
+L4
+VGHWRQSS1GaSkZ^>Y2PGC@1
+!s100 540TNg64j96cm>zQj95Al3
+R6
+32
+!i10b 1
+Z32 !s108 1583529949.915000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|//uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/Top.vhd|
+Z34 !s107 //uottawa.o.univ/acadhomes/o/oe/oehim101/oehim101/Desktop/CEG31563/Lab2/Top.vhd|
+R10
+R11
+Aprocessorarch
+R1
+R2
+Z35 DEx4 work 20 singlecycleprocessor 0 22 GHWRQSS1GaSkZ^>Y2PGC@1
+l118
+L13
+Z36 VK7lM1c;JLJ@TBJLK0VomV3
+Z37 !s100 X7m1OkGcb6FSaQJHIT1@b2
+R6
+32
+!i10b 1
+R32
+R33
+R34
+R10
+R11
